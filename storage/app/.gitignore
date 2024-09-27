@@ -1,0 +1,6 @@
+*
+!public/
+!object_retribusi/
+!stubs/
+!lahan_pertanian/
+!.gitignore

@@ -1,0 +1,11 @@
+.select2-container .select2-selection--single {
+    height: 48px !important;
+}
+
+nav.sidebar-hide {
+    transform: translateX(-100%) !important;
+}
+
+div.panel-widden {
+    margin-left: 0 !important;
+}

@@ -1,0 +1,16 @@
+<?php
+
+namespace MyRepositoryNamespace;
+
+class MyRepository
+{
+    /**
+     * Return all collections
+     *
+     * @return Collection
+     */
+    public function all()
+    {
+        //
+    }
+}
